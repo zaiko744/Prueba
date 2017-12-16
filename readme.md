@@ -1,4 +1,4 @@
 ## Juanito
 Mi primer repositorio
-# Haciendo un conflicto
-
+# Aprendiendo a hacer un pull
+Vamos a caer en un conflicto
